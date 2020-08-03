@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "武器",
+  "usingComponents": {
+    "mask": "/common/mask"
+  }
+}

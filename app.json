@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/item/item",
+    "pages/gun/gun"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#3cc51f",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/item/item",
+        "iconPath": "static/img/item.png",
+        "selectedIconPath": "static/img/item.png",
+        "text": "道具"
+      },
+      {
+        "pagePath": "pages/gun/gun",
+        "iconPath": "static/img/gun.png",
+        "selectedIconPath": "static/img/gun.png",
+        "text": "武器"
+      }
+    ]
+  },
+  "usingComponents": {},
+  "sitemapLocation": "sitemap.json"
+}
